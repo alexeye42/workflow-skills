@@ -1,0 +1,1 @@
+- 20260617_initial-setup.md: Created a brief project README and initialized core agent context files (AGENTS.md and CLAUDE.md) for the workflow-skills repository.
