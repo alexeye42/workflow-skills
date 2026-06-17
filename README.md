@@ -2,7 +2,7 @@
 
 Skills and meta-skills to enhance and manage various non-development workflows with AI agents.
 
-### Scrum-Inspired Skills
+## Scrum-Inspired Skills
 
 These skills is an example implementation of a process framework for AI agents (ProF4A), inspired by the Scrum pillars of Transparency, Inspection, and Adaptation. It helps maintain human-in-the-loop oversight and continuous improvement of agent behavior without falling into micromanagement. 
 
