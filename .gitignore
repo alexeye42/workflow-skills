@@ -1,0 +1,5 @@
+.DS_Store
+temp
+
+# Ignore all hidden directories (.vscode, .agents, etc.)
+.*/
