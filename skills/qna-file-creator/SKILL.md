@@ -50,7 +50,7 @@ If the user didn't mention the target file location and name in the prompt, then
 ### Q&A File Format Template
 
 ```
-### <Title (The Task In Question)>
+### Q&A: <Title (The Task In Question)>
 <Brief description of the task context in 1-2 sentences>
 
 ## Round 1 Questions (<MM/DD/YYYY>)
@@ -72,7 +72,7 @@ An:
 
 ## Round 2 Questions (<MM/DD/YYYY>)
 
-### [Section Y]
+### [Section Z]
 ...
 ```
 
@@ -104,7 +104,7 @@ Here:
 * If the user prompt includes a hint to create **closed questions** ("ask questions with options", etc), prefer generating 3-4 options but use the open question format above for SOME questions where you don't have a clue to generate meaningful options. If the answer options are used for a question:
   - Options must be preceded by A, B, C[, D] for English (use similar letters for another language).
   - The last option must assume an open answer, e.g.: "Other (please specify)".
-  - The preceding options must be 4-10 words long.
+  - The preceding options must be 3-10 words long.
 
 ## Anti-Patterns
 

@@ -43,9 +43,7 @@ Bullet list of work items done and issues encountered (if any).
 Numbered list of ESSENTIAL decisions about the task at hand made by agent or user.
 ```
 
-> [!IMPORTANT]
-> **"Last updated" must reflect the current time on every write or edit.**
-> Every time the task file is created or modified, set "Last updated" to the current timestamp. 
+Set "Last updated" to the current time on every write to the task file or `NOW.md`.
 
 #### Writing the "Decisions made" section
 
@@ -121,10 +119,4 @@ When a new task file semantically matches a parking lot item, remove that item f
 ### No "done" marking
 
 Completed tasks stay in Previous (pushed out naturally when the list exceeds 3).
-
-## Anti-Patterns
-
-- NEVER leave "Last updated" unchanged after modifying a task file or NOW.md.
-- NEVER fabricate reasons for decisions that were not discussed.
-- NEVER add "Reason: ..." to every decision mechanically.
 
